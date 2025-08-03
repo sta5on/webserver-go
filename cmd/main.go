@@ -2,7 +2,6 @@ package main
 
 import (
 	"log"
-	webserver_go "webserver_go/pkg"
 )
 
 func main() {
